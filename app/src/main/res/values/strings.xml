@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlickrFindr2</string>
+    <string name="search_hint">Search Flickr</string>
+    <string name="title_activity_image_result">ImageResultActivity</string>
+    <string name="cd_full_screen_image">Full Screen Image Result</string>
+    <string name="cd_image_result_thumbnail">Image Result Thumbnail</string>
+</resources>
